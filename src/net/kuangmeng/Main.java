@@ -324,9 +324,5 @@ public static boolean isNumeric(String str){
 	   return true;
 	  }
 
-//测试
-public void sayHello(){
-	System.out.println("Hello");
-}
 }
 
