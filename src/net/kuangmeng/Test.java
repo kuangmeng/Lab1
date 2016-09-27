@@ -11,7 +11,5 @@ public class Test {
 	   public void sayHello(){
 		   System.out.println("Hello");
 	   }
-	   public void sayHello(String name){
-		   System.out.println("Hello:"+getName());
-	   }
+	 
 }
