@@ -8,4 +8,11 @@ public class sayHello {
    public void setName(String name){
 	   this.name=name;
    }
+<<<<<<< HEAD
+=======
+   public sayHello(){
+	   System.out.println("Hello");
+   }
+
+>>>>>>> B1
 }

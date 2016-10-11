@@ -323,9 +323,14 @@ public static boolean isNumeric(String str){
 	   }
 	   return true;
 	  }
+<<<<<<< HEAD
 //测试
 public void sayHello(){
 	System.out.println("Hello");
 }
+=======
+
+
+>>>>>>> B1
 }
 

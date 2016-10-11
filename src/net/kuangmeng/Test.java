@@ -11,4 +11,8 @@ public class Test {
 	   public void sayHello(){
 		   System.out.println("Hello");
 	   }
+<<<<<<< HEAD
+=======
+
+>>>>>>> B1
 }
